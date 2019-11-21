@@ -1,13 +1,7 @@
 @import "https://fonts.googleapis.com/css?family=Amatic+SC ";
 @import url('https://fonts.googleapis.com/css?family=Clicker+Script');
 @import url('https://fonts.googleapis.com/css?family=Six+Caps');
-a{
-  font-color: black;
-  font-size: 1%;
-  margin:0%;
-  padding:0;
-  border:0;
-}
+
 html{
   background-image: url("hw.jpeg");
   background-repeat: no-repeat;
