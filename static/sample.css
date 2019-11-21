@@ -1,0 +1,75 @@
+@import "https://fonts.googleapis.com/css?family=Amatic+SC ";
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script');
+@import url('https://fonts.googleapis.com/css?family=Six+Caps');
+
+.contianer {
+    display: grid;
+    grid-template-columns: auto auto auto;;
+    grid-template-rows: 300px 300px 300px;
+    grid-gap: 10px;
+    margin-top:2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    grid-auto-rows: minmax(300px, auto);
+}
+#left{
+  position: fixed;
+   top: 0;
+   right: 0;
+   width: 100%;
+   height: 12%;
+   z-index: -1;
+}
+html{
+  height: auto;
+}
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#navigation{
+  font-size: 170%;
+  white-space: nowrap;
+  font-weight: bold;
+}
+#home_title{
+  margin-left: 10%;
+  font-size: 250%;
+  font-family: Clicker Script;
+  color: #DEB887;
+  font-weight: normal;
+}
+#nav1{
+  color: #008080;
+  text-decoration: none;
+  font-family: Amatic SC;
+  margin-left: 15%;
+  margin-top: 3%;
+}
+#nav2{
+  color: #008080;
+  text-decoration: none;
+  font-family: Amatic SC;
+  margin-left: 2%;
+
+}
+#caphub{
+  color: #008080;
+  text-decoration: none;
+  font-family: Amatic SC;
+  margin-left: 2%;
+}
+#music{
+  color: #008080;
+  text-decoration: none;
+  font-family: Amatic SC;
+  margin-left: 2%;
+}
+#nav3{
+  color: #008080;
+  text-decoration: none;
+  font-family: Amatic SC;
+  margin-left: 10%;
+}

@@ -1,0 +1,63 @@
+@import "https://fonts.googleapis.com/css?family=Amatic+SC ";
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script');
+@import url('https://fonts.googleapis.com/css?family=Six+Caps');
+
+html{
+  background-image: url("hw.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 1500px 700px;}
+
+#left{
+  position: fixed;
+   top: 0;
+   right: 0;
+   width: 100%;
+   height: 12%;
+   z-index: -1;
+}
+
+#navigation{
+  font-size: 170%;
+  white-space: nowrap;
+
+}
+#home_title{
+  margin-left: 10%;
+  font-size: 250%;
+  font-family: Clicker Script;
+  color: #DEB887;
+
+}
+#nav1{
+  color: white;
+  text-decoration: none;
+  font-family: Amatic SC;
+  margin-left: 15%;
+  margin-top: 3%;
+}
+#nav2{
+  color: white;
+  text-decoration: none;
+  font-family: Amatic SC;
+  margin-left: 2%;
+
+}
+#caphub{
+  color: white;
+  text-decoration: none;
+  font-family: Amatic SC;
+  margin-left: 2%;
+}
+#music{
+  color: white;
+  text-decoration: none;
+  font-family: Amatic SC;
+  margin-left: 2%;
+}
+#nav3{
+  color: white;
+  text-decoration: none;
+  font-family: Amatic SC;
+  margin-left: 10%;
+}
