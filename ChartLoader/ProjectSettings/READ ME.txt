@@ -1,0 +1,7 @@
+To Install the Xbox 360 Guitar controller input to the Unity Engine
+Do the Following Steps.
+
+1. Copy "InputManager.asset" -> "../YourUnityProject/ProjectSettings/InputManager.asset"
+2. Overwrite the current InputManager.asset.
+
+This will register the input of the xbox360 guitar controller to Unity.
